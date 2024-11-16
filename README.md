@@ -3,4 +3,4 @@ I am primarily experienced in:\
 ✅ PHP, Laravel \
 ✅ Vue, React \
 ✅ MySQL, Postgres \
-✅ Docker \
+✅ Docker
